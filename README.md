@@ -10,24 +10,24 @@ The stock market has proven to be a lucrative investment avenue for individuals 
 The objective of this project is to analyze stock market data, group stocks based on attributes such as price, volatility, and financial indicators, and provide insights to help investors make informed decisions.
 
 # Data
-The dataset used in this project contains the following columns:
-
-Ticker Symbol
-Company
-GICS Sector
-GICS Sub Industry
-Current Price
-Price Change
-Volatility
-ROE
-Cash Ratio
-Net Cash Flow
-Net Income
-Earnings Per Share
-Estimated Shares Outstanding
-P/E Ratio
-P/B Ratio
-Methodology
+  * The dataset used in this project contains the following columns:
+  * Ticker Symbol
+  * Company
+  * GICS Sector
+  * GICS Sub Industry
+  * Current Price
+  * Price Change
+  * Volatility
+  * ROE
+  * Cash Ratio
+  * Net Cash Flow
+  * Net Income
+  * Earnings Per Share
+  * Estimated Shares Outstanding
+  * P/E Ratio
+  * P/B Ratio
+    
+# Methodology
 This project employs two clustering techniques: K-means clustering and hierarchical clustering. Each technique provides insights into the characteristics of different groups of stocks based on their performance and financial indicators.
 
 # K-means Clustering Insights:
@@ -44,22 +44,17 @@ This project employs two clustering techniques: K-means clustering and hierarchi
   * Characteristics
   * Insights
 # Hierarchical Clustering Insights:
-Cluster 0:
-
-Characteristics
-Insights
-Cluster 1:
-
-Characteristics
-Insights
-Cluster 2:
-
-Characteristics
-Insights
-Cluster 3:
-
-Characteristics
-Insights
+  * Characteristics
+  * Insights
+* Cluster 1:
+  * Characteristics
+  * Insights
+* Cluster 2:
+  * Characteristics
+  * Insights
+* Cluster 3:
+  * Characteristics
+  * Insights
 # Recommendations
 Based on the analysis, the following recommendations are provided:
 
