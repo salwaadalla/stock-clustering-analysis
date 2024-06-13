@@ -31,22 +31,18 @@ Methodology
 This project employs two clustering techniques: K-means clustering and hierarchical clustering. Each technique provides insights into the characteristics of different groups of stocks based on their performance and financial indicators.
 
 # K-means Clustering Insights:
-Cluster 0:
-
-Characteristics
-Insights
-Cluster 1:
-
-Characteristics
-Insights
-Cluster 2:
-
-Characteristics
-Insights
-Cluster 3:
-
-Characteristics
-Insights
+* Cluster 0:
+  * Characteristics
+  * Insights
+* Cluster 1:
+  * Characteristics
+  * Insights
+* Cluster 2:
+  * Characteristics
+  * Insights
+* Cluster 3:
+  * Characteristics
+  * Insights
 # Hierarchical Clustering Insights:
 Cluster 0:
 
